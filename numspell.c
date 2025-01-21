@@ -1,4 +1,4 @@
-#include "../Header/bibhas.h"
+#include "bibhas.h"
 
 
 void use(char *filename);
